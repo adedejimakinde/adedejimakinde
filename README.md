@@ -1,6 +1,6 @@
 # Adedeji Makinde
 
-I am a Python developer and Machine Learning Engineer. I build web backends and APIs with Django, PostgreSQL and PostGIS and I build NLP tools and datasets for African languages with a focus on Yorùbá. I do my language research through the [Masakhane](https://www.masakhane.io) community.
+I am a Python developer and Machine Learning Engineer. I build web backends and APIs with Django, PostgreSQL and PostGIS and I build NLP tools and datasets for African languages with a focus on Yorùbá. I'm currently a NLP research engineer at [Masakhane](https://www.masakhane.io) 
 
 I am open to remote roles in Python Development, Machine Learning Engineering and Developer Relations.
 
