@@ -29,7 +29,7 @@ A set of 300 queries written by native speakers to test how retrieval systems ha
 ## Tools
 
 - **Languages:** Python, Bash
-- **Backend:** Django, Django REST Framework, Flask, Celery, Redis, PostgreSQL, PostGIS, REST API design
+- **Backend:** Django, Django REST Framework, Flask, Celery, Redis, PostgreSQL, MongoDB, PostGIS, REST API design
 - **Machine learning and NLP:** PyTorch, scikit-learn, Pandas, NumPy, Hugging Face Transformers, Hugging Face Datasets, spaCy, multilingual model fine-tuning (AfriBERTa, AfroXLMR, mBERT, XLM-R), LLM prompting and evaluation
 - **Testing and CI:** pytest, GitHub Actions
 - **Cloud and deployment:** AWS, Docker, Linux, Render, Railway, Heroku
