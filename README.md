@@ -6,9 +6,9 @@ I am open to remote roles in Python Development, Machine Learning Engineering an
 
 ## Projects
 
-**Classnode**
+**Classnode** (in progress)
 
-A multi-tenant school management platform. I built its bus-routing component as a spatial decision support system: student locations are grouped with K-Means clustering, stored and queried with PostGIS and served through a Django REST API.
+A cloud-based school management platform. I'm presently building the platform using Django and PostgreSQL
 
 **[yotext](https://pypi.org/project/yotext/)**
 
@@ -22,9 +22,6 @@ Compares zero-shot LLM prompting with fine-tuned multilingual models (AfriBERTa,
 
 A set of 300 queries written by native speakers to test how retrieval systems handle Yorùbá text, including missing or inconsistent diacritics. Built with volunteer annotators for submission to AfricaNLP.
 
-## Open source
-
-- [spaCy](https://github.com/explosion/spaCy): reported and fixed errors in the Yorùbá stop word list, with tests ([issue #14036](https://github.com/explosion/spaCy/issues/14036), [PR #14037](https://github.com/explosion/spaCy/pull/14037))
 
 ## Tools
 
